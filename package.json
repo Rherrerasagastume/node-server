@@ -1,0 +1,25 @@
+{
+  "name": "listtareas",
+  "version": "1.0.0",
+  "description": "lista de tareas de practica npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rherrerasagastume/node-server.git"
+  },
+  "keywords": [
+    "tareas"
+  ],
+  "author": "rafael h",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rherrerasagastume/node-server/issues"
+  },
+  "homepage": "https://github.com/Rherrerasagastume/node-server#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
